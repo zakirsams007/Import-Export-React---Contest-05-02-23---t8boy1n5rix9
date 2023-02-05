@@ -5,4 +5,4 @@ function SubmitButton() {
         <button>Ask</button>     
     )
 }
-export default SubmitButon;
+export default SubmitButton;
