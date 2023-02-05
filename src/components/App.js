@@ -1,9 +1,9 @@
 import React, { Component, useState } from "react";
 import '../styles/App.css';
 import Head from "./Heading";
-import Input from "InputQuery;
+import Input from "./InputQuery";
 import SubHead from "./SubHeading";
-import submitBtn from "./SubmitButton
+import Subbtn from "./SubmitButton"
 
 
 const App = () => {
@@ -12,7 +12,7 @@ const App = () => {
       <Head />
       <Input />
       <SubHead />
-      <SubmitBtn />
+      <Subbtn />
     </div>
   )
 }
